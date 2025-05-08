@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome - Bienvenue 👋
 
-<!--
-**schatel-dev/schatel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un développeur passionné par le web et les technologies modernes. Mon expertise s'étend sur plusieurs langages et outils, dont **HTML**, **CSS**, **SCSS**, **PHP**, **JavaScript** et **PowerShell**.
 
-Here are some ideas to get you started:
+## Technologies que j'utilise 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **HTML** : Structure de base des pages web
+- **CSS** : Design et mise en forme
+- **SCSS** : Préprocesseur CSS pour un code plus propre et maintenable
+- **PHP** : Développement côté serveur, création d'APIs, et gestion de base de données
+- **JavaScript** : Création d'interactivité et de fonctionnalités côté client
+- **PowerShell** : Automatisation et gestion de systèmes (principalement sur Windows)
+
+## À propos de moi
+
+Je suis passionné par le développement web, et je m'efforce de créer des applications performantes et intuitives. Je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et explorer de nouvelles technologies.
