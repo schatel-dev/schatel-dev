@@ -8,6 +8,9 @@ Mon expertise s’étend sur plusieurs langages et outils, notamment :
 **HTML**, **CSS**, **SCSS**, **PHP**, **JavaScript**, and **PowerShell**.
 
 ---
+<p align="center">
+    <img width="50%" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Fqa3pkZjVsZm9ycGN6d3hvYXVzMWhzcDNqMnhxOW9vb2JpdmNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" />
+</p>
 
 ## 🚀 Technologies I Use / Technologies que j’utilise
 
