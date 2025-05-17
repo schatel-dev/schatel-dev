@@ -44,3 +44,19 @@ Mon expertise s’étend sur plusieurs langages et outils, notamment :
 
 🇬🇧 I’m always looking for new challenges to improve my skills and explore new technologies.  
 🇫🇷 Je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et découvrir de nouvelles technologies.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=schatel-dev&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=schatel-dev&theme=github_dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schatel-dev&layout=compact&langs_count=6&hide=ts,scss" alt="Top Languages" />
+</p>
